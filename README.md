@@ -1,2 +1,3 @@
 # demo
-My first github repository
+My first Git repository.
+Hello World!
