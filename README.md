@@ -1,3 +1,3 @@
-# demo
+# PYTHON LEARNING
 My first Git repository.
-Hello World!
+Here I will be learning and improving my Python skills.
